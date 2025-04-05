@@ -4,7 +4,6 @@ An addictive Match-3 game inspired by Candy Crush Saga, but set in the vibrant w
 
 This project was built purely with HTML, CSS, and Vanilla JavaScript (no frameworks or external libraries) as a learning exercise and for fun.
 
-https://github.com/user-attachments/assets/bae18d79-df1d-4c6e-914e-8360dd8cff9f
 
 ## 🚀 How to Play
 
@@ -21,3 +20,7 @@ https://github.com/user-attachments/assets/bae18d79-df1d-4c6e-914e-8360dd8cff9f
 
   
 **Note:** This is a fan-made project for educational and entertainment purposes only. It is non-profit and has no official affiliation with Nintendo or The Pokémon Company. All character rights belong to their respective owners.
+
+
+https://github.com/user-attachments/assets/aa7bf800-234e-4774-92c6-a45461fd873a
+
