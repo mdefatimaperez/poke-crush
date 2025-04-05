@@ -1,0 +1,63 @@
+body{
+    background-image: url(img/fondo.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.grid {
+    height: 720px;
+    width: 720px;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.637);
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.178);
+}
+
+.grid div {
+    height: 90px;
+    width: 90px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid rgba(211, 211, 211, 0.493);
+    box-sizing: border-box; 
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    margin: 50px;
+}
+
+.titleAndScore{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.titleAndScore h1{
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+.titleAndScore h2{
+    font-size: 4rem;
+    margin: 0;
+}
+.board{
+    margin: 20px;
+    margin-bottom: 100px;
+}
+#pikaka{
+   padding-top: 200px;
+}
+
+.tituloScore{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif ;
+}
